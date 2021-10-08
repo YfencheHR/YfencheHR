@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YfencheHR
-- 👀 I’m interested in Javascript and tools
+- 👀 I’m interested in JavaScript and tools
 - 🌱 I’m currently learning Gastby
 
 <!---
